@@ -20,7 +20,7 @@
 
 <form:form action="saveEmployee" modelAttribute="employee">
 
-    <from:hidden path="id"/>
+    <form:hidden path="id"/>
 
     <table>
         <tr>
