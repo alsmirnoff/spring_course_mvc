@@ -7,7 +7,7 @@ import com.learning.spring.rest.entity.Employee;
 public interface EmployeeDAO {
     public List<Employee> getAllEmployees();
 
-    public void saveEmployee(Employee employee);
+    public Employee saveEmployee(Employee employee);
 
     public Employee getEmployee(int id);
 
