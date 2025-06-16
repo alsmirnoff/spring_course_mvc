@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "spring_course_rest_client"
+		},
+		{
+			"name": "spring_course_security",
+			"path": "spring_course_security/spring_course_security"
+		},
+		{
+			"path": "spring_course_mvc"
+		},
+		{
+			"path": "springboot_rest"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
